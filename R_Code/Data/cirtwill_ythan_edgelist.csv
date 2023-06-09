@@ -1,0 +1,393 @@
+res_sp,con_sp
+Anguilla anguilla,Lutra lutra
+Pholis gunnellus,Lutra lutra
+Zoarces viviparus,Lutra lutra
+Myxocephalus scorpius,Lutra lutra
+Salmo trutta,Lutra lutra
+Anguilla anguilla,Phalacrocorax carbo
+Pollachus virens,Phalacrocorax carbo
+Ammodytes tobianus,Phalacrocorax carbo
+Zoarces viviparus,Phalacrocorax carbo
+Pomatoschistus microps,Phalacrocorax carbo
+Platichthys flesus,Phalacrocorax carbo
+Salmo trutta,Phalacrocorax carbo
+Anguilla anguilla,Ardea cinerea
+Pollachus virens,Ardea cinerea
+Ammodytes tobianus,Ardea cinerea
+Pholis gunnellus,Ardea cinerea
+Zoarces viviparus,Ardea cinerea
+Pomatoschistus microps,Ardea cinerea
+Myxocephalus scorpius,Ardea cinerea
+Platichthys flesus,Ardea cinerea
+Salmo trutta,Ardea cinerea
+Carcinus maenas,Ardea cinerea
+Enteromorpha,Cygnus olor
+Carcinus maenas,Tadorna tadorna
+Hydrobia ulvae,Tadorna tadorna
+Corophium volutator,Tadorna tadorna
+Nereis diversicolor,Tadorna tadorna
+Littorina littorea,Tadorna tadorna
+Macoma balthica,Tadorna tadorna
+Mytilus edulis,Tadorna tadorna
+Cerastoderma edule,Tadorna tadorna
+Acarina,Tadorna tadorna
+Enteromorpha,Tadorna tadorna
+Enteromorpha,Anas penelope
+Crangon crangon,Somateria mollissima
+Carcinus maenas,Somateria mollissima
+Littorina littorea,Somateria mollissima
+Mytilus edulis,Somateria mollissima
+Crangon crangon,Somateria mollissima.1
+Hydrobia ulvae,Somateria mollissima.1
+Corophium volutator,Somateria mollissima.1
+Gammarus spp.,Somateria mollissima.1
+Nereis diversicolor,Somateria mollissima.1
+Littorina littorea,Somateria mollissima.1
+Macoma balthica,Somateria mollissima.1
+Mytilus edulis,Somateria mollissima.1
+Hydrobia ulvae,Haematopus ostralegus
+Corophium volutator,Haematopus ostralegus
+Nereis diversicolor,Haematopus ostralegus
+Littorina littorea,Haematopus ostralegus
+Macoma balthica,Haematopus ostralegus
+Mytilus edulis,Haematopus ostralegus
+Neomysis integer,Charadris hiaticula
+Gammarus spp.,Charadris hiaticula
+Nereis diversicolor,Charadris hiaticula
+Littorina littorea,Charadris hiaticula
+Hydrobia ulvae,Pluvialis apricaria
+Corophium volutator,Pluvialis apricaria
+Gammarus spp.,Pluvialis apricaria
+Nereis diversicolor,Pluvialis apricaria
+Littorina littorea,Pluvialis apricaria
+Corophium volutator,Pluvialis squatarola
+Nereis diversicolor,Pluvialis squatarola
+Hydrobia ulvae,Vanellus vanellus
+Nereis diversicolor,Vanellus vanellus
+Macoma balthica,Vanellus vanellus
+Corophium volutator,Calidris alpina
+Nereis diversicolor,Calidris alpina
+Nereis diversicolor,Limos lapponica
+Carcinus maenas,Numenius arquata
+Hydrobia ulvae,Numenius arquata
+Nereis diversicolor,Numenius arquata
+Littorina littorea,Numenius arquata
+Crangon crangon,Tringa totanus
+Carcinus maenas,Tringa totanus
+Hydrobia ulvae,Tringa totanus
+Corophium volutator,Tringa totanus
+Gammarus spp.,Tringa totanus
+Nereis diversicolor,Tringa totanus
+Arenicola marina,Tringa totanus
+Littorina saxatilis,Tringa totanus
+Macoma balthica,Tringa totanus
+Mytilus edulis,Tringa totanus
+Chironomid larvae,Tringa totanus
+Corophium volutator,Arenaria interpres
+Gammarus spp.,Arenaria interpres
+Littorina littorea,Arenaria interpres
+Sprattus sprattus,Larus canus
+Clupea harengus,Larus canus
+Platichthys flesus,Larus canus
+Carcinus maenas,Larus canus
+Neomysis integer,Larus canus
+Corophium volutator,Larus canus
+Gammarus spp.,Larus canus
+Nereis diversicolor,Larus canus
+Littorina littorea,Larus canus
+Sprattus sprattus,Larus ridibundus
+Clupea harengus,Larus ridibundus
+Platichthys flesus,Larus ridibundus
+Carcinus maenas,Larus ridibundus
+Neomysis integer,Larus ridibundus
+Corophium volutator,Larus ridibundus
+Gammarus spp.,Larus ridibundus
+Nereis diversicolor,Larus ridibundus
+Somateria mollissima,Larus aragentatus
+Sprattus sprattus,Larus aragentatus
+Clupea harengus,Larus aragentatus
+Pholis gunnellus,Larus aragentatus
+Platichthys flesus,Larus aragentatus
+Salmo trutta,Larus aragentatus
+Carcinus maenas,Larus aragentatus
+Littorina littorea,Larus aragentatus
+Mytilus edulis,Larus aragentatus
+Cerastoderma edule,Larus aragentatus
+Sprattus sprattus,Larus marinus
+Clupea harengus,Larus marinus
+Platichthys flesus,Larus marinus
+Carcinus maenas,Larus marinus
+Mytilus edulis,Larus marinus
+Cerastoderma edule,Larus marinus
+Sprattus sprattus,Sterna Sandvicensis
+Clupea harengus,Sterna Sandvicensis
+Ammodytes tobianus,Sterna Sandvicensis
+Zoarces viviparus,Sterna Sandvicensis
+Platichthys flesus,Sterna Sandvicensis
+Sprattus sprattus,Sterna hirundo
+Clupea harengus,Sterna hirundo
+Anguilla anguilla,Sterna hirundo
+Ammodytes tobianus,Sterna hirundo
+Crangon crangon,Sterna hirundo
+Sprattus sprattus,Sterna paradisea
+Clupea harengus,Sterna paradisea
+Ammodytes tobianus,Sterna paradisea
+Carcinus maenas,Corvus frugilegus
+Littorina littorea,Corvus frugilegus
+Littorina saxatilis,Corvus frugilegus
+Macoma balthica,Corvus frugilegus
+Carcinus maenas,Corvus corone
+Hydrobia ulvae,Corvus corone
+Littorina saxatilis,Corvus corone
+Mytilus edulis,Corvus corone
+Crangon crangon,Anguilla anguilla
+Neomysis integer,Anguilla anguilla
+Corophium volutator,Anguilla anguilla
+Gammarus spp.,Anguilla anguilla
+Jaera marina,Anguilla anguilla
+Nereis diversicolor,Anguilla anguilla
+Semibalanus balanoides,Sygnathus rostellatus
+Pomatoschistus microps,Pollachus virens
+Crangon crangon,Pollachus virens
+Carcinus maenas,Pollachus virens
+Semibalanus balanoides,Pollachus virens
+Neomysis integer,Pollachus virens
+Corophium volutator,Pollachus virens
+Gammarus spp.,Pollachus virens
+Nereis diversicolor,Pollachus virens
+Carcinus maenas,Ciliata mustella
+Gammarus spp.,Ciliata mustella
+Hydrobia ulvae,Ammodytes tobianus
+Semibalanus balanoides,Ammodytes tobianus
+Neomysis integer,Ammodytes tobianus
+Gammarus spp.,Ammodytes tobianus
+Jaera marina,Ammodytes tobianus
+Pygospio elegans,Ammodytes tobianus
+Mytilus edulis,Ammodytes tobianus
+Crangon crangon,Pholis gunnellus
+Carcinus maenas,Pholis gunnellus
+Semibalanus balanoides,Pholis gunnellus
+Neomysis integer,Pholis gunnellus
+Corophium volutator,Pholis gunnellus
+Gammarus spp.,Pholis gunnellus
+Jaera marina,Pholis gunnellus
+Nematodes,Pholis gunnellus
+Nereis diversicolor,Pholis gunnellus
+Littorina saxatilis,Pholis gunnellus
+Mytilus edulis,Pholis gunnellus
+Chironomid larvae,Pholis gunnellus
+Enteromorpha,Pholis gunnellus
+Crangon crangon,Zoarces viviparus
+Hydrobia ulvae,Zoarces viviparus
+Semibalanus balanoides,Zoarces viviparus
+Corophium volutator,Zoarces viviparus
+Gammarus spp.,Zoarces viviparus
+Jaera marina,Zoarces viviparus
+Nereis diversicolor,Zoarces viviparus
+Pygospio elegans,Zoarces viviparus
+Capitallidae,Zoarces viviparus
+Mytilus edulis,Zoarces viviparus
+Foraminifera,Zoarces viviparus
+Crangon crangon,Pomatoschistus minutus
+Hyale nilssoni,Pomatoschistus minutus
+Carcinus maenas,Pomatoschistus minutus
+Hydrobia ulvae,Pomatoschistus minutus
+Neomysis integer,Pomatoschistus minutus
+Corophium volutator,Pomatoschistus minutus
+Gammarus spp.,Pomatoschistus minutus
+Jaera marina,Pomatoschistus minutus
+Nereis diversicolor,Pomatoschistus minutus
+Pygospio elegans,Pomatoschistus minutus
+Tubificoides benedeni,Pomatoschistus minutus
+Mytilus edulis,Pomatoschistus minutus
+Chironomid larvae,Pomatoschistus minutus
+Foraminifera,Pomatoschistus minutus
+Pomatoschistus minutus,Pomatoschistus microps
+Pomatoschistus microps,Pomatoschistus microps
+Crangon crangon,Pomatoschistus microps
+Hyale nilssoni,Pomatoschistus microps
+Carcinus maenas,Pomatoschistus microps
+Hydrobia ulvae,Pomatoschistus microps
+Semibalanus balanoides,Pomatoschistus microps
+Neomysis integer,Pomatoschistus microps
+Corophium volutator,Pomatoschistus microps
+Gammarus spp.,Pomatoschistus microps
+Jaera marina,Pomatoschistus microps
+Nototropis spp.,Pomatoschistus microps
+Nereis diversicolor,Pomatoschistus microps
+Pygospio elegans,Pomatoschistus microps
+Manayunkia aestuarina,Pomatoschistus microps
+Arenicola marina,Pomatoschistus microps
+Mytilus edulis,Pomatoschistus microps
+Chironomid larvae,Pomatoschistus microps
+Acarina,Pomatoschistus microps
+Foraminifera,Pomatoschistus microps
+Pomatoschistus microps,Myxocephalus scorpius
+Crangon crangon,Myxocephalus scorpius
+Carcinus maenas,Myxocephalus scorpius
+Semibalanus balanoides,Myxocephalus scorpius
+Neomysis integer,Myxocephalus scorpius
+Corophium volutator,Myxocephalus scorpius
+Gammarus spp.,Myxocephalus scorpius
+Crangon crangon,Agonus cataphractus
+Gammarus spp.,Agonus cataphractus
+Crangon crangon,Gasterosteus aculeatus
+Semibalanus balanoides,Gasterosteus aculeatus
+Neomysis integer,Gasterosteus aculeatus
+Corophium volutator,Gasterosteus aculeatus
+Gammarus spp.,Gasterosteus aculeatus
+Nereis diversicolor,Gasterosteus aculeatus
+Crangon crangon,Pleuronectes platessa
+Hydrobia ulvae,Pleuronectes platessa
+Semibalanus balanoides,Pleuronectes platessa
+Neomysis integer,Pleuronectes platessa
+Corophium volutator,Pleuronectes platessa
+Gammarus spp.,Pleuronectes platessa
+Jaera marina,Pleuronectes platessa
+Nereis diversicolor,Pleuronectes platessa
+Pygospio elegans,Pleuronectes platessa
+Capitallidae,Pleuronectes platessa
+Manayunkia aestuarina,Pleuronectes platessa
+Tubificoides benedeni,Pleuronectes platessa
+Mytilus edulis,Pleuronectes platessa
+Cerastoderma edule,Pleuronectes platessa
+Foraminifera,Pleuronectes platessa
+Sprattus sprattus,Platichthys flesus
+Clupea harengus,Platichthys flesus
+Ammodytes tobianus,Platichthys flesus
+Pomatoschistus microps,Platichthys flesus
+Myxocephalus scorpius,Platichthys flesus
+Pleuronectes platessa,Platichthys flesus
+Platichthys flesus,Platichthys flesus
+Crangon crangon,Platichthys flesus
+Carcinus maenas,Platichthys flesus
+Hydrobia ulvae,Platichthys flesus
+Semibalanus balanoides,Platichthys flesus
+Neomysis integer,Platichthys flesus
+Mya arenaria,Platichthys flesus
+Talitrus saltator,Platichthys flesus
+Corophium volutator,Platichthys flesus
+Bathyporeia pilosa,Platichthys flesus
+Gammarus spp.,Platichthys flesus
+Idotea emarginata,Platichthys flesus
+Eurydice pulchra,Platichthys flesus
+Nereis virens,Platichthys flesus
+Nereis diversicolor,Platichthys flesus
+Hesionidae,Platichthys flesus
+Parathemisto spp.,Platichthys flesus
+Phyllodoce,Platichthys flesus
+Eteone,Platichthys flesus
+Pygospio elegans,Platichthys flesus
+Capitallidae,Platichthys flesus
+Manayunkia aestuarina,Platichthys flesus
+Orbinia,Platichthys flesus
+Arenicola marina,Platichthys flesus
+Tubificoides benedeni,Platichthys flesus
+Tubifex costatus,Platichthys flesus
+Littorina littorea,Platichthys flesus
+Alderia modesta,Platichthys flesus
+Retusa obtusa,Platichthys flesus
+Macoma balthica,Platichthys flesus
+Mytilus edulis,Platichthys flesus
+Cerastoderma edule,Platichthys flesus
+Chironomid larvae,Platichthys flesus
+Diptera larvae/pupae,Platichthys flesus
+Enteromorpha,Platichthys flesus
+Crangon crangon,Platichthys flesus.1
+Carcinus maenas,Platichthys flesus.1
+Semibalanus balanoides,Platichthys flesus.1
+Neomysis integer,Platichthys flesus.1
+Corophium volutator,Platichthys flesus.1
+Gammarus spp.,Platichthys flesus.1
+Jaera marina,Platichthys flesus.1
+Nereis diversicolor,Platichthys flesus.1
+Pygospio elegans,Platichthys flesus.1
+Manayunkia aestuarina,Platichthys flesus.1
+Mytilus edulis,Platichthys flesus.1
+Foraminifera,Platichthys flesus.1
+Crangon crangon,Salmo trutta
+Semibalanus balanoides,Salmo trutta
+Corophium volutator,Salmo trutta
+Gammarus spp.,Salmo trutta
+Nereis diversicolor,Salmo trutta
+Carcinus maenas,Crangon crangon
+Hydrobia ulvae,Crangon crangon
+Semibalanus balanoides,Crangon crangon
+Neomysis integer,Crangon crangon
+Corophium volutator,Crangon crangon
+Nematodes,Crangon crangon
+Diatoms,Crangon crangon
+Nereis diversicolor,Crangon crangon
+Pygospio elegans,Crangon crangon
+Tubificoides benedeni,Crangon crangon
+Mytilus edulis,Crangon crangon
+Foraminifera,Crangon crangon
+Enteromorpha,Hyale nilssoni
+Carcinus maenas,Carcinus maenas
+Hydrobia ulvae,Carcinus maenas
+Semibalanus balanoides,Carcinus maenas
+Corophium volutator,Carcinus maenas
+Jaera marina,Carcinus maenas
+Nematodes,Carcinus maenas
+Nereis virens,Carcinus maenas
+Nereis diversicolor,Carcinus maenas
+Fucus ceranoides,Carcinus maenas
+Littorina saxatilis,Carcinus maenas
+Macoma balthica,Carcinus maenas
+Mytilus edulis,Carcinus maenas
+Cerastoderma edule,Carcinus maenas
+Enteromorpha,Carcinus maenas
+Enteromorpha,Hydrobia ulvae
+POM (detritus),Hydrobia ulvae
+POM (detritus),Semibalanus balanoides
+POM (detritus),Mya arenaria
+POM (detritus),Talitrus saltator
+POM (detritus),Corophium volutator
+POM (detritus),Bathyporeia pilosa
+POM (detritus),Gammarus spp.
+POM (detritus),Idotea emarginata
+POM (detritus),Jaera marina
+POM (detritus),Eurydice pulchra
+POM (detritus),Nototropis spp.
+POM (detritus),Nematodes
+Hydrobia ulvae,Nereis virens
+Corophium volutator,Nereis virens
+Nematodes,Nereis virens
+Fucus ceranoides,Nereis virens
+Enteromorpha,Nereis virens
+POM (detritus),Nereis virens
+Hydrobia ulvae,Nereis diversicolor
+Corophium volutator,Nereis diversicolor
+Nematodes,Nereis diversicolor
+Fucus ceranoides,Nereis diversicolor
+Enteromorpha,Nereis diversicolor
+POM (detritus),Nereis diversicolor
+POM (detritus),Hesionidae
+POM (detritus),Parathemisto spp.
+Pygospio elegans,Phyllodoce
+Pygospio elegans,Eteone
+POM (detritus),Pygospio elegans
+POM (detritus),Capitallidae
+POM (detritus),Manayunkia aestuarina
+POM (detritus),Orbinia
+POM (detritus),Arenicola marina
+POM (detritus),Tubificoides benedeni
+POM (detritus),Tubifex costatus
+Diatoms,Littorina littorea
+Enteromorpha,Littorina littorea
+POM (detritus),Littorina littorea
+Diatoms,Littorina saxatilis
+Enteromorpha,Littorina saxatilis
+POM (detritus),Littorina saxatilis
+Enteromorpha,Alderia modesta
+Hydrobia ulvae,Retusa obtusa
+POM (detritus),Macoma balthica
+POM (detritus),Mytilus edulis
+POM (detritus),Cerastoderma edule
+POM (detritus),Chironomid larvae
+POM (detritus),Diptera larvae/pupae
+POM (detritus),Acarina
+POM (detritus),Foraminifera
+Zooplankton,Neomysis integer
+Zooplankton,Sprattus sprattus
+Zooplankton,Clupea harengus

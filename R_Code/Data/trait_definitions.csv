@@ -1,0 +1,21 @@
+﻿order,short_trait,full_trait
+8,t_land,Land-based
+7,t_pela,Pelagic
+6,t_erec,Erect
+5,t_surf,Surficial
+4,t_sein,Semi-infaunal
+3,t_shin,Shallow infaunal
+2,t_dein,Deep infaunal
+1,t_prim,Prim. prod.
+7,m_fast,Fast
+6,m_slow,Slow
+5,m_faun,"Facultative, unattached"
+4,m_faat,"Facultative, attached"
+3,m_nmun,"Nonmotile, unattached"
+2,m_nmat,"Nonmotile, attached"
+1,m_prim,Prim. prod.
+5,f_pred,Predator
+4,f_susp,Suspension feeder
+3,f_surf,Surficial feeder
+2,f_mini,Mining feeder
+1,f_prim,Prim. prod.
